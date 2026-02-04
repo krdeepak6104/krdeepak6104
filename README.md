@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 😄 Hey I am Deepak, I'am an Computer Science Student intersted in all things Python, Java and Web Dev.
+- 🔭 I’m currently working on a small project of Java
+- 🌱 I’m currently learning Java and C++ with SQL
+- 👯 I’m looking to collaborate on Bulding WebSites !
+- 📫 Send me ur's Idea on krdeepak6104@gmail.com
 <!--
 **krdeepak6104/krdeepak6104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
