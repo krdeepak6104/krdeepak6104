@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 😄 Hey I am Deepak, I'am an Computer Science Student intersted in all things Python, Java and Web Dev.
+- 😄 Hey I am Deepak
+- ⚡ I'am an Computer Science Student intersted in all things Python, Java and Web Dev.
 - 🔭 I’m currently working on a small project of Java
 - 🌱 I’m currently learning Java and C++ with SQL
 - 👯 I’m looking to collaborate on Bulding WebSites !
